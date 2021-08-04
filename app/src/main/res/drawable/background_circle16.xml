@@ -1,0 +1,6 @@
+<shape android:tint="@color/candle_light" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size
+        android:width="30dp"
+        android:height="30dp" />
+</shape>
